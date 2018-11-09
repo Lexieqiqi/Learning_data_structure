@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming/test/SqList.cpp
+SqList.h
+D:/Programming/test/SqList.h
+iostream
+-
+
+D:/Programming/test/SqList.h
+iostream
+-
+
+D:/Programming/test/main.cpp
+iostream
+-
+SqList.h
+D:/Programming/test/SqList.h
+
